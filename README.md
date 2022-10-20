@@ -7,4 +7,5 @@ A custom Discord Bot for 11-TVL-1
 - More, coming soon...
 
 ## Note
-Nagcacrash to minsan HAHAHAH
+Nagcacrash to minsan HAHAHAH\
+Wala din pong node modules kase sobrang laki ng ffmpeg HAHA
