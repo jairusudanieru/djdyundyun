@@ -1,7 +1,6 @@
 {
-  "token": "Secret",
-  "clientId": "1005111533648490537",
-  "guildId": "758760053707767858",
-  "botId": "1005111533648490537",
-  "voicech": "1032265498328567830"
+  "token": "bottoken",
+  "clientId": "clientid",
+  "guildId": "guildid",
+  "botId": "botid"
 }
